@@ -3,4 +3,4 @@ Página de demostración:
 https://realmeedr.github.io/HTML5_Que_es/.
 
 Mis otros proyectos:
-https://consult2.000webhostapp.com/Index.html
+https://consult2.000webhostapp.com/index.html
